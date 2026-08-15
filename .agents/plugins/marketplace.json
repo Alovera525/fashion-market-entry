@@ -1,0 +1,20 @@
+{
+  "name": "fashion-market-entry",
+  "interface": {
+    "displayName": "Fashion Market Entry"
+  },
+  "plugins": [
+    {
+      "name": "fashion-market-entry",
+      "source": {
+        "source": "local",
+        "path": "./plugins/fashion-market-entry"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

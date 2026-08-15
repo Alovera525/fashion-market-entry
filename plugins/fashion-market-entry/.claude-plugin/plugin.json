@@ -1,0 +1,21 @@
+{
+  "name": "fashion-market-entry",
+  "version": "0.1.0",
+  "description": "为时尚、服饰和箱包品牌生成可核验的新市场进入判断、风险闸门与落地策略。",
+  "author": {
+    "name": "Alovera525",
+    "url": "https://github.com/Alovera525"
+  },
+  "homepage": "https://github.com/Alovera525/fashion-market-entry#readme",
+  "repository": "https://github.com/Alovera525/fashion-market-entry",
+  "license": "MIT",
+  "keywords": [
+    "fashion",
+    "market-entry",
+    "market-research",
+    "localization",
+    "时尚",
+    "出海",
+    "市场调研"
+  ]
+}
