@@ -1,6 +1,6 @@
 {
   "name": "fashion-market-entry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "为时尚、服饰和箱包品牌生成可核验的新市场进入判断、风险闸门与落地策略。",
   "author": {
     "name": "Alovera525",
@@ -22,7 +22,7 @@
   "interface": {
     "displayName": "Fashion Market Entry",
     "shortDescription": "时尚品牌新市场进入调研与落地策略",
-    "longDescription": "从委托方身份、货盘、目标市场和预算出发，生成有出处、可证伪、可落地的时尚品牌市场进入判断与策略文档。",
+    "longDescription": "从委托方身份、货盘、目标市场和时间窗出发，生成有出处、可证伪、可落地的时尚品牌市场进入判断与策略文档。",
     "developerName": "Alovera525",
     "category": "Productivity",
     "capabilities": [
@@ -31,7 +31,7 @@
     ],
     "websiteURL": "https://github.com/Alovera525/fashion-market-entry",
     "defaultPrompt": [
-      "判断一个时尚品牌能否进入目标市场；先完成开工四问，再给一页结论和章节大纲。",
+      "判断一个时尚品牌能否进入目标市场；先完成开工四问，再给执行摘要和章节大纲。",
       "审查这份市场调研的证据、逻辑、重复内容和可执行性，并列出必须修改项。",
       "基于现有库存制定一个国家的市场进入策略，明确平台、价格、人群、风险和验证动作。"
     ]
