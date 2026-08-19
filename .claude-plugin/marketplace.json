@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "fashion-market-entry",
   "description": "时尚品牌新国家或地区市场调研与落地策略 Skill",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "owner": {
     "name": "Alovera525"
   },
@@ -11,7 +11,7 @@
       "name": "fashion-market-entry",
       "source": "./plugins/fashion-market-entry",
       "description": "为时尚、服饰和箱包品牌生成可核验的新市场进入判断、风险闸门与落地策略。",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "Alovera525"
       },
